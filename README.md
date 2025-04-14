@@ -14,4 +14,4 @@ Meu principal objetivo com este repositório é:
 
 - **C** (Linguagem de programação estruturada e de baixo nível, excelente para entender os fundamentos da computação)
 
-## 🧩 Estrutura do Repositório
+
