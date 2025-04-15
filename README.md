@@ -9,6 +9,7 @@ Meu principal objetivo com este repositório é:
 - Praticar e reforçar minha lógica de programação
 - Aprender a resolver problemas com clareza e eficiência
 - Compartilhar soluções que possam ajudar outros estudantes e programadores iniciantes
+- E entregar o trabalho para o nosso professor Heleno 
 
 ## 🚀 Linguagem utilizada
 
