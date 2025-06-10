@@ -1,6 +1,6 @@
 # 🧠 150 Questões de Algoritmos em C
 
-Olá! Meu nome é **Kaua** aluno da uniruy wyden (Matricula: 202303982071) e este repositório foi criado para compartilhar minha jornada de aprendizado em algoritmos, resolvendo **150 questões em linguagem C**.
+Olá! Meu nome é **Kaua** aluno da uniruy wyden (Matricula: 202303982071) e este repositório foi criado para compartilhar minha jornada de aprendizado em algoritmos, resolvendo **150 questões em linguagem C** com as duas listas fornecidas pelo nosso inlustre professor Heleno (IFSC e PUCRS).
 
 ## 📚 Objetivo
 
